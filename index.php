@@ -2,4 +2,6 @@
 
     echo "ALMATY KALASY";
 
+    echo "HELLOOOO";
+
 ?>
